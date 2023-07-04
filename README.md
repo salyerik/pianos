@@ -1,18 +1,15 @@
-# This is the home page of the business card site
-[Link to page⬅️][link]
+# This is the home page of a business card site
+
 ## I used here:
-* HTML (BEM, PUG)
-* CSS (SASS)
+* HTML (BEM)
+* CSS
 * Pure JavaScript:
 	* Animations
-	* Swiper-slider
 	* Menu-burger
 	* Tabs
-* GULP
-* NPM
-* GIT
+	* Swiper-slider
 
-[Link to page⬅️][link]
+[Link to the page⬅️][link]
 
 ### Mobile Optimization
 <img src="img/page-speed.jpg" alt="img" style="height: 400px;">
